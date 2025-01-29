@@ -7,3 +7,7 @@
 - 30 racers for each course
 - Tracks includes enclosed tubes, cylinders, and rollercoaster-esque paths
 - Story Mode as Captain Falcon
+
+![game](image.png)
+
+*[https://nintendo.fandom.com/wiki/F-Zero_GX]
