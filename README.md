@@ -11,3 +11,4 @@
 ![game](image.png)
 
 *[https://nintendo.fandom.com/wiki/F-Zero_GX]
+
